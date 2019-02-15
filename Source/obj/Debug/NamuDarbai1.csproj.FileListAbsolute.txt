@@ -1,6 +1,0 @@
-C:\Users\nefro\Desktop\CSharp\NamuDarbai1\Source\bin\Debug\NamuDarbai1.exe.config
-C:\Users\nefro\Desktop\CSharp\NamuDarbai1\Source\bin\Debug\NamuDarbai1.exe
-C:\Users\nefro\Desktop\CSharp\NamuDarbai1\Source\bin\Debug\NamuDarbai1.pdb
-C:\Users\nefro\Desktop\CSharp\NamuDarbai1\Source\obj\Debug\NamuDarbai1.csprojResolveAssemblyReference.cache
-C:\Users\nefro\Desktop\CSharp\NamuDarbai1\Source\obj\Debug\NamuDarbai1.exe
-C:\Users\nefro\Desktop\CSharp\NamuDarbai1\Source\obj\Debug\NamuDarbai1.pdb
